@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": " P5DJW7Q74Q.com.healthwithai.app",
+                "paths": [ "/app-redirect/*" ]
+            }
+        ]
+    }
+}
